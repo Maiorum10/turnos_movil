@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Turnos GADM Mocha</string>
+    <string name="title_activity_main">Turnos GADM Mocha</string>
+    <string name="package_name">com.turnos.app</string>
+    <string name="custom_url_scheme">com.turnos.app</string>
+</resources>

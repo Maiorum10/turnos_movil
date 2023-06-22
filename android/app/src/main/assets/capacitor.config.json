@@ -1,0 +1,6 @@
+{
+	"appId": "com.turnos.app",
+	"appName": "Turnos GADM Mocha",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
